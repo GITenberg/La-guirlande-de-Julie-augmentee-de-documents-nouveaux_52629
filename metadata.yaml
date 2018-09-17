@@ -1,0 +1,39 @@
+_repo: La-guirlande-de-Julie-augmentee-de-documents-nouveaux_52629
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Montausier, Charles de Sainte-Maure, duc de
+    aliases:
+    - Sainte-Maure, Charles de, duc de Montausier
+    - De Sainte-Maure, Charles, duc de Montausier
+    - Salle, Charles de Sainte-Maure, marquis de
+    - De Montausier, Charles de Sainte-Maure, duc
+    birthdate: 1610
+    deathdate: 1690
+    gutenberg_agent_id: '46965'
+    url: http://www.gutenberg.org/2009/agents/46965
+creator:
+  editor:
+    agent_name: Uzanne, Octave
+    alias: Uzanne, Louis Octave
+    birthdate: 1851
+    deathdate: 1931
+    gutenberg_agent_id: '1042'
+    url: http://www.gutenberg.org/2009/agents/1042
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2016-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52629'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Madrigals'
+- !lcsh 'French poetry -- 17th century'
+- !lcc 'PQ'
+- GITenberg
+title: 'La guirlande de Julie: augmentée de documents nouveaux'
+url: http://www.gutenberg.org/ebooks/52629
